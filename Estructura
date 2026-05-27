@@ -1,0 +1,14 @@
+pre-entrega-automation-testing-alexey.quintero/
+│
+├── tests/
+│   └── test_saucedemo.py
+│
+├── utils/
+│   └── helpers.py
+│
+├── reports/
+│   └── reporte.html   (se genera al correr pytest)
+│
+├── README.md
+│
+└── requirements.txt
